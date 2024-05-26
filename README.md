@@ -1,1 +1,2 @@
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Important](https://img.shields.io/badge/IMPORTANT-purple)
+![Warning](https://img.shields.io/badge/WARNING-yellow)
