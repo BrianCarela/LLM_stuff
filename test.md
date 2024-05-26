@@ -6,6 +6,7 @@
 
 ## Timeline
 
-uh
-![Gradient](example.svg) ok so
+before
+![Gradient](example.svg) next to
 
+after
