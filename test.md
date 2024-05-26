@@ -8,20 +8,14 @@
 
 ![Gradient](example.svg)
 
-1. **January 2023** - Started learning HTML and CSS
-   ![HTML & CSS](example.svg)
+![one](example.svg) 1. **first** - uhh
 
-2. **February 2023** - Moved on to JavaScript
-   ![JavaScript](example.svg)
+![two](example.svg) 2. **then** - more stuff
 
-3. **March 2023** - Built my first website
-   ![Website](example.svg)
+![three](example.svg) 3. **after that** - ummm
 
-4. **April 2023** - Learned about Git and GitHub
-   ![GitHub](example.svg)
+![four](example.svg) 4. **and then** - ...
 
-5. **May 2023** - Started learning React
-   ![React](example.svg)
+![five](example.svg) 5. **almost** - srbgkdbg
 
-6. **June 2023** - Built a full-stack application with MERN
-   ![MERN](example.svg)
+![six](example.svg) 6. **finally** - lets see it
