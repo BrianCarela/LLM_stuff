@@ -1,2 +1,1 @@
-<p style="color: purple; font-weight: bold;">IMPORTANT</p>
-<p style="color: yellow; font-weight: bold;">WARNING</p>
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
